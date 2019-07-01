@@ -1,6 +1,8 @@
 # DDPG-Quadcopter
 
-Reinforcement Learning Based Quadcopter part of Udacity Deep Learning Nano Degree Project
+Reinforcement Learning Based Quadcopter part of Udacity Deep Learning Nano Degree Project.
+
+I used reinforcement learning to train a quadcopter to take off and fly by maximizing the rewards using Deep Deterministic Policy Gradients (DDPG).
 
 ## Quadcopter Applications
 
@@ -28,9 +30,8 @@ Monitoring Poachers,
 Insurance, 
 Aviation, 
 Meterology, 
-Product Delivery
+Product Delivery.
 
-I used reinforcement learning to train a quadcopter to take off and fly by maximizing the rewards using Deep Deterministic Policy Gradients (DDPG).
 
 ## Environment and tools
 

@@ -2,32 +2,32 @@
 
 Reinforcement Learning Based Quadcopter part of Udacity Deep Learning Nano Degree Project
 
-## Quadcopter applications
+## Quadcopter Applications
 
-Aerial Photography & Videography
-Real estate photography
-Mapping & Surveying
-Asset Inspection
-Payload carrying
-Agriculture
-Bird Control
-Crop spraying
-Crop monitoring
-Multispectral/thermal/NIR cameras
-Live streaming events
-Roof inspections
-Emergency Response
-Search and Rescue
-Marine Rescue
-Disaster zone mapping
-Disaster Relief
-Forenzics
-Mining
-Firefighting
-Monitoring Poachers
-Insurance
-Aviation
-Meterology
+Aerial Photography & Videography, 
+Real estate photography, 
+Mapping & Surveying, 
+Asset Inspection, 
+Payload carrying, 
+Agriculture, 
+Bird Control, 
+Crop spraying, 
+Crop monitoring, 
+Multispectral/thermal/NIR cameras, 
+Live streaming events, 
+Roof inspections, 
+Emergency Response, 
+Search and Rescue, 
+Marine Rescue, 
+Disaster zone mapping, 
+Disaster Relief, 
+Forenzics, 
+Mining, 
+Firefighting, 
+Monitoring Poachers, 
+Insurance, 
+Aviation, 
+Meterology, 
 Product Delivery
 
 I used reinforcement learning to train a quadcopter to take off and fly by maximizing the rewards using Deep Deterministic Policy Gradients (DDPG).
